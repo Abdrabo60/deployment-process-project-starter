@@ -8,8 +8,9 @@ The pipeline is setup and connected with this GitHub repository in CircleCI.
 2. It checks out the code from the repo
 3. FrontEnd & BackEnd install
 4. FrontEnd & BackEnd build
-5. FrontEnd & BackEnd deploy
+5. wait for user approval 
+6. FrontEnd & BackEnd deploy
 
 ## Schema
 
-![Pipeline Schema](./images/pipeline.png)
+![Pipeline Schema](./images/udagram-pipeline.png)

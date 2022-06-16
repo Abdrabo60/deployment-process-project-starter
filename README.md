@@ -2,8 +2,9 @@
 
 This project is part of the Udacity FullStack JavaScript nanodegree. The code was given as a starter project and the task was to employ and adapt the code to get it working and hosted on AWS.
 
-The project is available at
+# S3 Bucket host link
 
+## http://frontend-app-1.s3-website-us-east-1.amazonaws.com/
 
 See additional documentation in the documentation folder.
 
@@ -27,21 +28,23 @@ See additional documentation in the documentation folder.
 
 ### CircleCI Pipeline
 
-![CircleCI Pipeline](./documentation/images/pipeline1.png)
+![CircleCI Pipeline](./documentation/images/pipeline_build.jpg)
 
-![CircleCI Pipeline](./documentation/images/pipeline2.png)
+![CircleCI Pipeline](./documentation/images/pipeline_deploy.jpg)
 
-added secrets here
+![CircleCI Pipeline](./documentation/images/pipeline_overview.jpg)
 
-![CircleCI Pipeline environment variables](./documentation/images/pipeline%20env.png)
+## CircleCi Enviroment Variables
+
+![CircleCI Pipeline environment variables](./documentation/images/pipeline_env.png)
 
 Schema
 
-![Pipeline Schema](./documentation/images/pipeline.png)
+![Pipeline Schema](./documentation/images/udagram-pipeline.png)
 
 ### Architecture
 
-![Architecture](./documentation/images/architecture.png)
+![Architecture](./documentation/images/udagram-architecture-diagram.png)
 
 ## Built With
 
